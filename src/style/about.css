@@ -1,0 +1,15 @@
+body {
+  font-family: 'Baloo 2', cursive;
+}
+
+.container {
+  padding: 3rem;
+  text-align: center;
+}
+
+
+.span {
+  margin-top: 2rem;
+  padding: 2rem;
+  font-size: 20px;
+}
