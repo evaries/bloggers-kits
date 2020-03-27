@@ -18,7 +18,7 @@ const BloggersCard = props => {
           <div className='buy'
             style={{ display: 'flex', justifyContent: "center" }}>
             <Button
-              href={props.shopLink}
+              href={props.youtubeLink}
               variant="dark"
             >View Kit</Button>
           </div>

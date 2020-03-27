@@ -7,7 +7,6 @@ const About = props => {
     <Container>
       <div className="header">
         <h1 className='heading' >About Project</h1>
-
       </div>
       <div className="span">
         <span > Be Blogger is very simple and any can do this. All you need is a
