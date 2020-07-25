@@ -15,8 +15,7 @@ const BloggersCard = props => {
           <Card.Text>
             {props.text}
           </Card.Text>
-          <div className='buy'
-            style={{ display: 'flex', justifyContent: "center" }}>
+          <div style={{ display: 'flex', justifyContent: "center" }}>
             <Button
               href={props.youtubeLink}
               variant="dark"

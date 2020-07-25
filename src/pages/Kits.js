@@ -3,7 +3,6 @@ import { Container, Row, Col } from 'react-bootstrap';
 import BloggersCard from '../components/BloggersCard'
 import { bloggers } from '../db/db'
 
-
 const Kits = () => {
 
   return (
@@ -21,7 +20,6 @@ const Kits = () => {
         )}
       </Row>
     </Container>
-
   );
 };
 

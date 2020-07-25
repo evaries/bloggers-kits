@@ -2,13 +2,11 @@ import React from 'react';
 import { Container, Row, Col, Button } from 'react-bootstrap';
 import '../style/home.css'
 
-
-
-const Home = props => {
+const Home = () => {
   return (
     <Container>
       <div className="header">
-        <h1 className='heading' >START YOUR OWN BLOG</h1>
+        <h1 className='heading'>START YOUR OWN BLOG</h1>
         <h2>It is easier than you think</h2>
       </div>
       <div className="span">

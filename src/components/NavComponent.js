@@ -2,7 +2,7 @@ import React from 'react';
 import { Navbar, Nav } from 'react-bootstrap';
 
 
-const NavComponent = props => {
+const NavComponent = () => {
   return (
     <div className="NavComponent">
       <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark">
